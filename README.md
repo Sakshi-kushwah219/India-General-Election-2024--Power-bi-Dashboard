@@ -3,7 +3,12 @@
 This project features an interactive Power BI dashboard analyzing the **2024 Indian General Election** results. It offers a multi-level view of party and alliance performance across states and constituencies with dynamic filters, KPIs, and maps.
 
 ## 📊 Dashboard Highlights
-:
+
+## 📎 Screenshots
+> ![1 home](https://github.com/user-attachments/assets/3b7b824a-62e7-4912-a1ab-b3a6cacb5616)
+
+
+---
 
 📂 Access the Data
 You can view and download the raw data used in this project here:
@@ -58,12 +63,6 @@ Question KPI's and Dashboard link :
 
 ## 📌 Purpose
 This dashboard was built as a portfolio project to demonstrate data storytelling and Power BI interactivity using real-world election data. It helps users explore election results across different geographic and political dimensions.
-
----
-
-## 📎 Screenshots
-> ![1 home](https://github.com/user-attachments/assets/3b7b824a-62e7-4912-a1ab-b3a6cacb5616)
-
 
 ---
 
