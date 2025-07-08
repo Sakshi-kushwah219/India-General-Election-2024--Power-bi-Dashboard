@@ -1,4 +1,4 @@
-# 🇮🇳 India General Election Results 2024 – Power BI Dashboard
+# India General Election Results 2024 – Power BI Dashboard
 
 This project features an interactive Power BI dashboard analyzing the **2024 Indian General Election** results. It offers a multi-level view of party and alliance performance across states and constituencies with dynamic filters, KPIs, and maps.
 
