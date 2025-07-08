@@ -3,7 +3,13 @@
 This project features an interactive Power BI dashboard analyzing the **2024 Indian General Election** results. It offers a multi-level view of party and alliance performance across states and constituencies with dynamic filters, KPIs, and maps.
 
 ## 📊 Dashboard Highlights
-🔗 Repository: India-General-Election-2024--Power-bi-Dashboard
+:
+
+📂 Access the Raw Data
+You can view and download the raw data used in this project here:
+👉 Raw Data Folder
+
+
 
 ### 🔹 Overview Analysis
 - Total seats won by **NDA**, **I.N.D.I.A.**, and **Independent/Others**
