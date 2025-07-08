@@ -9,9 +9,10 @@ This project features an interactive Power BI dashboard analyzing the **2024 Ind
 You can view and download the raw data used in this project here:
 - <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/tree/main/Raw%20Data"> DATA SET</a>
 
-Question KPI's
+Question KPI's and Dashboard link :
+
 - <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/blob/main/Problem%20Statement.pdf">Problems</a>
-Dashboard link :
+
 - <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/tree/main/Dashboard%20image's">Dashboard</a>
 
 ### 🔹 Overview Analysis
