@@ -16,7 +16,7 @@ You can view and download the raw data used in this project here:
 
 Question KPI's and Dashboard link :
 
-- <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/blob/main/Problem%20Statement.pdf">Problems</a>
+- <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/blob/main/Problem%20Statement.docx">Problems</a>
 
 - <a href="https://github.com/Sakshi-kushwah219/India-General-Election-2024--Power-bi-Dashboard/tree/main/Dashboard%20image's">Dashboard</a>
 
