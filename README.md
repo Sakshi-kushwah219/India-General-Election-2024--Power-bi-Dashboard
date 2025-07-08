@@ -62,7 +62,8 @@ This dashboard was built as a portfolio project to demonstrate data storytelling
 ---
 
 ## 📎 Screenshots
-> *(Add relevant dashboard screenshots here to showcase the visuals)*
+> ![1 home](https://github.com/user-attachments/assets/3b7b824a-62e7-4912-a1ab-b3a6cacb5616)
+
 
 ---
 
